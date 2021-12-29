@@ -6,7 +6,7 @@ These are my notes for the [**12 Days of Kubernetes**](https://blogs.vmware.com/
 
 ### [Day 1. Kubernetes in 5 Minutes](01-kubernetes-in-5-minutes/)
 
-### Day 2. What is Kubernetes? 7 Fast Facts From the Founders
+### [Day 2. What is Kubernetes? 7 Fast Facts From the Founders](02-what-is-kubernetes/)
 
 ### Day 3. Kubernetes For the VI Admin
 
