@@ -10,7 +10,7 @@ These are my notes for the [**12 Days of Kubernetes**](https://blogs.vmware.com/
 
 ### [Day 3. Kubernetes For The VI Admin](03-kubernetes-for-the-vi-admin/)
 
-### Day 4. KubeAcademy Pro
+### [Day 4. KubeAcademy Pro](04-kubeacademy-pro/)
 
 ### Day 5. VMware Tanzu Community Edition
 
