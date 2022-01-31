@@ -14,7 +14,7 @@ These are my notes for the [**12 Days of Kubernetes**](https://blogs.vmware.com/
 
 ### [Day 5. VMware Tanzu Community Edition](05-vmware-tanzu-community-edition/)
 
-### Day 6. Expanding the Developer Toolbox with VMware Tanzu Community Edition
+### [Day 6. Expanding the Developer Toolbox with VMware Tanzu Community Edition](06-expanding-the-developer-toolbox-with-vmware-tanzu-community-edition)
 
 ### Day 7. Getting Started with VMware Tanzu Community Edition
 
